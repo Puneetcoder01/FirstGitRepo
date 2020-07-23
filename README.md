@@ -1,2 +1,2 @@
 # FirstGitRepo
-Tutorial of GIt
+Tutorial of GIt, Learning for the first time
